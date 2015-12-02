@@ -5,7 +5,7 @@ Created on 02-Dec-2015
 '''
 
 from setuptools import setup
-
+#To understand more about click setup tools look http://click.pocoo.org/5/setuptools/
 setup(
     name='click_app',
     version='0.1',
